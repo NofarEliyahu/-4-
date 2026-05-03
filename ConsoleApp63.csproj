@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\hilae\OneDrive\שולחן העבודה\נופר לימודים\שנה ב\סמסטר ב\תכנות Net\Matala4_1.cs" Link="Matala4_1.cs" />
+  </ItemGroup>
+
+</Project>
