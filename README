@@ -1,0 +1,24 @@
+מטלת בית 4
+
+שאלה 1 - OOP:
+הפתרון נמצא בפרויקט ConsoleApp63.
+הקבצים הרלוונטיים:
+Program.cs
+ConsoleApp63.csproj
+ConsoleApp63.sln
+
+שאלה 2 - WinForms MDI:
+הפתרון נמצא בפרויקט WindowsFormsApp1.
+הקבצים הרלוונטיים:
+MainForm.cs
+MainForm.Designer.cs
+MainForm.resx
+AddForm.cs
+AddForm.Designer.cs
+AddForm.resx
+ViewForm.cs
+ViewForm.Designer.cs
+ViewForm.resx
+App.config
+WindowsFormsApp1.csproj
+WindowsFormsApp1.sln
